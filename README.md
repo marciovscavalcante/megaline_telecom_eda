@@ -1,4 +1,4 @@
-## AVALIAÇÃO DE DESEMPENHO DOS PLANOS DE SERVIÇOS:
+## AVALIAÇÃO DE DESEMPENHO DE PLANOS DE SERVIÇOS:
 ## Impacto na Receita e Implicações para Estratégias de Marketing
 
 Este projeto visa analisar os dados dos serviços da empresa de telecomunicações Megaline (Chamadas (ligações), Mensagens (SMS) e Internet (dados)) a fim de demonstrar qual dos seus planos de assinatura, "Surf" e "Ultimate", gera mais receita e assim ajustar o orçamento de publicidade.
